@@ -1,6 +1,4 @@
-Here's the complete `README.md` file in markdown format:
 
-```markdown
 # Detectly
 
 ## Introduction
