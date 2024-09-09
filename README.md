@@ -1,4 +1,4 @@
-# Detectly
+[# Detectly
 
 ## Introduction
 
@@ -36,20 +36,19 @@ To set up and run the project locally, follow these steps:
 
 Ensure you have Node.js and npm installed. Then run:
 
-bash
-Copy code
-npm install
-Run the Development Server:
+```bash
+    npm install
+    Run the Development Server:
 
-Start the local development server:
+##Start the local development server:
 
 bash
 Copy code
 npm start
 Open your browser and navigate to http://localhost:3000 to view the application.
 
-Usage
-Real-Time Object Detection:
+##Usage
+**Real-Time Object Detection:**
 
 Go to the "Experience" page.
 Use the camera feed to detect objects in real-time.
@@ -64,8 +63,8 @@ Use the toggle button in the navbar to switch between light and dark themes.
 Project Structure
 Here's a brief overview of the project structure:
 
+
 css
-Copy code
 detectly/
 ├── public/
 │   └── index.html
@@ -93,6 +92,7 @@ detectly/
 ├── .gitignore
 ├── package.json
 └── README.md
+
 Components
 Header.jsx: Contains the navigation bar with links and theme toggle.
 Hero.jsx: Displays the main section with a hero image or content.
@@ -111,7 +111,7 @@ Build the Project:
 
 Create an optimized build of the project:
 
-bash
+```bash
 Copy code
 npm run build
 Deploy to Netlify:
@@ -136,6 +136,7 @@ Make Changes:
 Implement your feature or fix.
 Commit and Push:
 
+```bash
 git add .
 git commit -m "Add my new feature"
 git push origin my-feature-branch
@@ -144,3 +145,4 @@ Create a Pull Request:
 Open a pull request from your forked repository to the original repository.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+](https://www.blackbox.ai/share/061fc256-5301-4f36-9462-88042be268ad)
